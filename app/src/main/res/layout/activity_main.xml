@@ -37,6 +37,7 @@
             android:id="@+id/imageView_ball"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:contentDescription="@string/image_ball"
             app:srcCompat="@drawable/ball1" />
     </RelativeLayout>
 
